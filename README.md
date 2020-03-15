@@ -9,3 +9,7 @@ UCL: https://data.mendeley.com/datasets/rscbjbr9sj/2 License: CC BY 4.0 Citation
 
 Models:
 ResNet50, InceptionV3 and Xception(Depthwise Seperable Convolution)
+
+Acknowledge:
+https://www.kaggle.com/aakashnain/beating-everything-with-depthwise-convolution/comments
+https://github.com/deadskull7/Pneumonia-Diagnosis-using-XRays-96-percent-Recall
